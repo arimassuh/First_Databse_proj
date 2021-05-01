@@ -41,10 +41,10 @@ Step 5:now type "cd desktop/mernbackend" and press enter
 Step 6:now type "npm run dev" and press enter ( wait for few minutes and boom ! all
  the local host connection parts will be done and a message will be displayed connection sucessful!)
  
-Step 7:open mongodb compass and there click connect if there is an option for it.(let me tell you that this mongo 
-connection is sometimes a pain therefore if you got any problem regarfing it then you can goto technical thapa channel
-resful api playlist number 10 and understand the code and if there another problem then check in its comments section
-a guy has provided a solution for that problem.) 
+Step 7:open mongodb compass and there click connect if there is an option for it.(let me tell you that sometimes this mongo 
+connection option is not available in some cases therefore if you got any problem then it may possible that your mongodb is not runnig.Ok then
+how to run mongodb? ->go to the task manager by searching it on your device search bar ->Go to Services->look for mongodb and see if its running 
+or not. If not then simply click on mongodb and click run.  It will start running and the problem will be solved.
 
 Step 8:there will be a "youtuberegistration" link open it .
 
