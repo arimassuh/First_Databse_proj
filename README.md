@@ -26,33 +26,7 @@ Yup!Now let me show you how to do it from scrach i.e whole copy paste coding and
 ok lets Go!!
 
 							#how to practically copy patse the whole code
-
-Step 1:Download mongodb compass, node js app, visual studio and open all except node js app.
-
-Step 2: go to my github->whysoserious3555->goto lan repository->select the "mernbackend" folder, 
-copy the folder or clone the whole lan repo in your desktop(you can use github desktop for these clone things as its easy)
-
-Step 3:come to ur visual studio code, and open the mernbackend folder which you saved on the desktop
-
-Step 4:open the terminal i.e simply press ctrl+` and the termial/node cmd will open(that black runtime screen)
-
-Step 5:now type "cd desktop/mernbackend" and press enter
-
-Step 6:now type "npm run dev" and press enter ( wait for few minutes and boom ! all
- the local host connection parts will be done and a message will be displayed connection sucessful!)
- 
-Step 7:open mongodb compass and there click connect if there is an option for it.(let me tell you that sometimes this mongo 
-connection option is not available in some cases therefore if you got any problem then it may possible that your mongodb is not runnig.Ok then
-how to run mongodb? ->go to the task manager by searching it on your device search bar ->Go to Services->look for mongodb and see if its running 
-or not. If not then simply click on mongodb and click run.  It will start running and the problem will be solved.
-
-Step 8:there will be a "youtuberegistration" link open it .
-
-Step 9: Open chrome and type "localhost:3000" now this page will open which is the home page 
-Step 10:Click on registration and type ur details, submit it and if the homepage opens, then we have sucessfully 
-registered the website as a user now open the mongodbcompass and check if the details are stored in the youtuberegistration or not.
-
-							#Thank you
+https://www.youtube.com/watch?v=XZiFBlfluZk&t=1858s
 
 
 
